@@ -1,4 +1,4 @@
-requests==2.23.0
+requests==2.31.0
 robotframework==3.1.2
 robotframework-requests==0.6.6
 
